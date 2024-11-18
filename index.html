@@ -142,15 +142,14 @@
                     node.y = finalPositions[i];
                 });
             });
-            
-            // Son dönemdeki düğümleri sağa kaydır
+// Son dönemdeki düğümleri sağa kaydır
             const lastRealPeriod = periods[periods.length - 1];
             nodes.forEach(node => {
                 if (node.period === lastRealPeriod) {
                     node.x += periodWidth * 0.3;
                 }
             });
-
+            
             // Düğümlerin minimum ve maksimum y değerlerini hesapla
             const minY = Math.min(...nodes.map(n => n.y));
             const maxY = Math.max(...nodes.map(n => n.y));
@@ -202,10 +201,179 @@
                 }
             });
 
-            // Daha fazla veri ve layout ayarlamaları...
-            // Kodun tam halini koruyarak devam ediyor...
+            // Zayıf bağlantıları ekle
+            connectionsData.forEach(conn => {
+                if (conn.type !== 'solid') {
+                    const sourceTheme = conn.source.split(' (')[0];
+                    const targetTheme = conn.target.split(' (')[0];
+                    
+                    const sourceNode = nodes.find(n => n.theme_title === sourceTheme);
+                    const targetNode = nodes.find(n => n.theme_title === targetTheme);
+                    
+                    if (sourceNode && targetNode) {
+                        const opacity = Math.min(0.6, conn.value / Math.max(...connectionsData.map(c => c.value)) * 0.6 + 0.2);
+                        const lineWidth = 0.8 + (conn.value / Math.max(...connectionsData.map(c => c.value)));
+                        
+                        data.push({
+                            x: [sourceNode.x, targetNode.x],
+                            y: [sourceNode.y, targetNode.y],
+                            mode: 'lines',
+                            line: {
+                                color: `rgba(160,160,160,${opacity})`,
+                                width: lineWidth,
+                                dash: 'dot'
+                            },
+                            hoverinfo: 'text',
+                            hovertext: `From: ${sourceTheme}<br>To: ${targetTheme}<br>Strength: ${conn.value.toFixed(2)}`,
+                            showlegend: false
+                        });
+                    }
+                }
+            });
+            
+            // Güçlü bağlantıları ekle
+            connectionsData.forEach(conn => {
+                if (conn.type === 'solid') {
+                    const sourceTheme = conn.source.split(' (')[0];
+                    const targetTheme = conn.target.split(' (')[0];
+                    
+                    const sourceNode = nodes.find(n => n.theme_title === sourceTheme);
+                    const targetNode = nodes.find(n => n.theme_title === targetTheme);
+                    
+                    if (sourceNode && targetNode) {
+                        const lineWidth = Math.max(1.5, 2 * (conn.value / Math.max(...connectionsData.map(c => c.value))));
+                        
+                        data.push({
+                            x: [sourceNode.x, targetNode.x],
+                            y: [sourceNode.y, targetNode.y],
+                            mode: 'lines',
+                            line: {
+                                color: 'rgba(0, 0, 255, 0.5)',
+                                width: lineWidth
+                            },
+                            hoverinfo: 'text',
+                            hovertext: `From: ${sourceTheme}<br>To: ${targetTheme}<br>Strength: ${conn.value.toFixed(2)}`,
+                            showlegend: false
+                        });
+                    }
+                }
+            });
+            
+            // Tema sürekliliğini ekle
+            const continuousThemes = [...new Set(
+                nodes.filter(n => 
+                    nodes.filter(other => other.theme_title === n.theme_title).length > 1
+                ).map(n => n.theme_title)
+            )];
+            
+            continuousThemes.forEach(theme => {
+                const themeNodes = nodes
+                    .filter(n => n.theme_title === theme)
+                    .sort((a, b) => periods.indexOf(a.period) - periods.indexOf(b.period));
+                
+                for (let i = 0; i < themeNodes.length - 1; i++) {
+                    data.push({
+                        x: [themeNodes[i].x, themeNodes[i+1].x],
+                        y: [themeNodes[i].y, themeNodes[i+1].y],
+                        mode: 'lines',
+                        line: {
+                            color: 'rgba(255, 165, 0, 0.7)',
+                            width: 2
+                        },
+                        hoverinfo: 'text',
+                        hovertext: `Continuous Theme: ${theme}`,
+                        showlegend: false
+                    });
+                }
+            });
+            
+            // Düğümleri ekle
+            data.push({
+                x: nodes.map(n => n.x),
+                y: nodes.map(n => n.y),
+                mode: 'markers+text',
+                marker: {
+                    size: nodes.map(n => n.size),
+                    color: nodes.map(n => n.theme_color || '#1f77b4'),
+                    line: {width: 1, color: '#000000'}
+                },
+                text: nodes.map(n => n.theme_title),
+                textposition: "middle right",
+                textfont: {size: 10},
+                hovertemplate: "<b>%{text}</b><br>" +
+                             "Period: %{customdata[0]}<br>" +
+                             "Members: %{customdata[1]}<br>" +
+                             "<extra></extra>",
+                customdata: nodes.map(n => [n.period, n.theme_member_count]),
+                showlegend: false
+            });
 
-            // Plotly görselleştirme oluştur
+            // Lejant öğeleri
+            const legendX = Math.min(...Object.values(xCoords)) - periodWidth/4;
+            const legendY = maxY + yRange*0.1;
+            
+            ['Strong Connection', 'Weak Connection', 'Theme Continuity'].forEach((name, i) => {
+                data.push({
+                    x: [legendX],
+                    y: [legendY - i * 0.5],
+                    mode: 'lines',
+                    name: name,
+                    line: {
+                        color: name === 'Strong Connection' ? 'rgba(0, 0, 255, 0.5)' :
+                               name === 'Weak Connection' ? 'rgba(160,160,160,0.6)' :
+                               'rgba(255, 165, 0, 0.7)',
+                        width: 2,
+                        dash: name === 'Weak Connection' ? 'dot' : 'solid'
+                    },
+                    showlegend: true
+                });
+            });
+            
+            // Layout ayarları
+            const layout = {
+                title: {
+                    text: "Theme Evolution Map (1997-2023)",
+                    x: 0.5,
+                    xanchor: 'center',
+                    font: {size: 16}
+                },
+                showlegend: true,
+                legend: {
+                    yanchor: "top",
+                    y: 1,
+                    xanchor: "left",
+                    x: 0.01,
+                    bgcolor: "rgba(255, 255, 255, 0.9)",
+                    bordercolor: "rgba(0,0,0,0.2)",
+                    borderwidth: 1,
+                    font: {size: 11}
+                },
+                xaxis: {
+                    showgrid: false,
+                    zeroline: false,
+                    showticklabels: false,
+                    range: [
+                        Math.min(...Object.values(xCoords).slice(0, -1)) - periodWidth * 0.75,
+                        Math.max(...Object.values(xCoords).slice(0, -1)) + periodWidth
+                    ]
+                },
+                yaxis: {
+                    showgrid: false,
+                    zeroline: false,
+                    showticklabels: false,
+                    range: [
+                        minY - yRange * 0.3,
+                        maxY + yRange * 0.2
+                    ]
+                },
+                hovermode: 'closest',
+                height: 800,
+                width: 1200,
+                plot_bgcolor: 'white',
+                margin: {t: 50, b: 50, l: 100, r: 100}
+            };
+            
+            // Görselleştirmeyi oluştur
             Plotly.newPlot('visualization', data, layout);
         }
 
@@ -239,7 +407,7 @@
             }
         }
 
-        // Sayfa y        // Sayfa y\u00fklendiğinde verileri yükle
+        // Sayfa yüklendiğinde verileri yükle
         window.addEventListener('load', loadData);
     </script>
 </body>
