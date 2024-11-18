@@ -1,0 +1,2210 @@
+[
+    {
+        "source": "library cooperation (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_10.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library cooperation (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_10.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library cooperation (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_10.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library cooperation (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_10.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "academic libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2009-2014_modularity_0.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "administration (2009-2014)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2009-2014_modularity_1.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "social aspects (2009-2014)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2009-2014_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "design and construction (2009-2014)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2009-2014_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "art (2020-2023)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2020-2023_modularity_11.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "higher education (2020-2023)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library materials (1997-2008)",
+        "target": "popular works (2020-2023)",
+        "source_file": "1997-2008_modularity_11.json",
+        "target_file": "2020-2023_modularity_16.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "social aspects (2009-2014)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2009-2014_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "africa (2009-2014)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2009-2014_modularity_11.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "computers (1997-2008)",
+        "target": "information science (2020-2023)",
+        "source_file": "1997-2008_modularity_13.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "link analysis (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_14.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 1,
+        "type": "solid"
+    },
+    {
+        "source": "affirmative action programs (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_15.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "affirmative action programs (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_15.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "affirmative action programs (1997-2008)",
+        "target": "history (2020-2023)",
+        "source_file": "1997-2008_modularity_15.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "academic libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2009-2014_modularity_0.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "social aspects (2009-2014)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2009-2014_modularity_10.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "appreciation (2009-2014)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2009-2014_modularity_3.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "dictionaries (2009-2014)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2009-2014_modularity_7.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "appreciation (2020-2023)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2020-2023_modularity_12.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "data processing (1997-2008)",
+        "target": "history (2020-2023)",
+        "source_file": "1997-2008_modularity_17.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "cross-cultural studies (1997-2008)",
+        "target": "administration (2009-2014)",
+        "source_file": "1997-2008_modularity_18.json",
+        "target_file": "2009-2014_modularity_1.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "cross-cultural studies (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_18.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "cross-cultural studies (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_18.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "academic libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2009-2014_modularity_0.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "social aspects (2009-2014)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2009-2014_modularity_10.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "popular works (2020-2023)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2020-2023_modularity_16.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "history (2020-2023)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (1997-2008)",
+        "target": "information science (2020-2023)",
+        "source_file": "1997-2008_modularity_19.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "catalogs (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_3.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "academic libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_0.json",
+        "value": 25,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "administration (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_1.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "social aspects (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "design and construction (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "distance education (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_8.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 30,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 10,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "space utilization (2015-2019)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2015-2019_modularity_7.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "higher education (2020-2023)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "political science (2020-2023)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "history (2020-2023)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "education (1997-2008)",
+        "target": "information science (2020-2023)",
+        "source_file": "1997-2008_modularity_4.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "academic libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2009-2014_modularity_0.json",
+        "value": 8,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 24,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "african american librarians (2009-2014)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2009-2014_modularity_2.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "dictionaries (2009-2014)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2009-2014_modularity_7.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "authorship (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_2.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "commerce (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "history (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 12,
+        "type": "dotted"
+    },
+    {
+        "source": "history (1997-2008)",
+        "target": "information science (2020-2023)",
+        "source_file": "1997-2008_modularity_5.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "social aspects (2009-2014)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2009-2014_modularity_10.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "dictionaries (2009-2014)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2009-2014_modularity_7.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "cultural property (2015-2019)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2015-2019_modularity_11.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "art (2020-2023)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2020-2023_modularity_11.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "higher education (2020-2023)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "political science (2020-2023)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "intellectual property (1997-2008)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_6.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "academic libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2009-2014_modularity_0.json",
+        "value": 10,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "administration (2009-2014)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2009-2014_modularity_1.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "social aspects (2009-2014)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2009-2014_modularity_10.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "digital libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2009-2014_modularity_5.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "design and construction (2009-2014)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2009-2014_modularity_6.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2009-2014_modularity_9.json",
+        "value": 21,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 12,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 24,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "artificial intelligence (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_4.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 9,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "space utilization (2015-2019)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2015-2019_modularity_7.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "higher education (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 10,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "political science (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "history (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 8,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (1997-2008)",
+        "target": "information science (2020-2023)",
+        "source_file": "1997-2008_modularity_7.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "academic libraries (2009-2014)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2009-2014_modularity_0.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "history (2009-2014)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2009-2014_modularity_14.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "libraries (2015-2019)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "library science (2015-2019)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "methodology (2020-2023)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "information storage and retrieval systems (2020-2023)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2020-2023_modularity_14.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "history (2020-2023)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "information storage and retrieval systems (1997-2008)",
+        "target": "information science (2020-2023)",
+        "source_file": "1997-2008_modularity_9.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 28,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "library science (2015-2019)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 9,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "higher education (2020-2023)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "popular works (2020-2023)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2020-2023_modularity_16.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 14,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2009-2014)",
+        "target": "information science (2020-2023)",
+        "source_file": "2009-2014_modularity_0.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "library science (2015-2019)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "political science (2020-2023)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "administration (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_1.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "library science (2015-2019)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_10.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "africa (2009-2014)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2009-2014_modularity_11.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "library science (2015-2019)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "space utilization (2015-2019)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2015-2019_modularity_7.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "appreciation (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_12.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "information storage and retrieval systems (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_14.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "higher education (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "authorship (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_2.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 8,
+        "type": "dotted"
+    },
+    {
+        "source": "history (2009-2014)",
+        "target": "information science (2020-2023)",
+        "source_file": "2009-2014_modularity_14.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "african american librarians (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_2.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 2,
+        "type": "solid"
+    },
+    {
+        "source": "appreciation (2009-2014)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_3.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "appreciation (2009-2014)",
+        "target": "appreciation (2020-2023)",
+        "source_file": "2009-2014_modularity_3.json",
+        "target_file": "2020-2023_modularity_12.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 4,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "cultural property (2015-2019)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2015-2019_modularity_11.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 8,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "african american women (2020-2023)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2020-2023_modularity_1.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "art (2020-2023)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2020-2023_modularity_11.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "higher education (2020-2023)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "digital libraries (2009-2014)",
+        "target": "information science (2020-2023)",
+        "source_file": "2009-2014_modularity_5.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "design and construction (2009-2014)",
+        "target": "libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_6.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "design and construction (2009-2014)",
+        "target": "space utilization (2015-2019)",
+        "source_file": "2009-2014_modularity_6.json",
+        "target_file": "2015-2019_modularity_7.json",
+        "value": 5,
+        "type": "dotted"
+    },
+    {
+        "source": "dictionaries (2009-2014)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "2009-2014_modularity_7.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "dictionaries (2009-2014)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2009-2014_modularity_7.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "dictionaries (2009-2014)",
+        "target": "political science (2020-2023)",
+        "source_file": "2009-2014_modularity_7.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "dictionaries (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_7.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "academic libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2015-2019_modularity_0.json",
+        "value": 9,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "social aspects (2015-2019)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2015-2019_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "evaluation (2015-2019)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2015-2019_modularity_12.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "libraries (2015-2019)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2015-2019_modularity_2.json",
+        "value": 19,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "library science (2015-2019)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2015-2019_modularity_5.json",
+        "value": 8,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "library and information science (2015-2019)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2015-2019_modularity_6.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "higher education (2020-2023)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "political science (2020-2023)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2009-2014)",
+        "target": "history (2020-2023)",
+        "source_file": "2009-2014_modularity_9.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "african american women (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_1.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "appreciation (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_12.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "higher education (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 13,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "political science (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "history (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "academic libraries (2015-2019)",
+        "target": "information science (2020-2023)",
+        "source_file": "2015-2019_modularity_0.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "african american women (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_1.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "higher education (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_15.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "political science (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "authorship (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_2.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "social aspects (2015-2019)",
+        "target": "history (2020-2023)",
+        "source_file": "2015-2019_modularity_10.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "evaluation (2015-2019)",
+        "target": "art (2020-2023)",
+        "source_file": "2015-2019_modularity_12.json",
+        "target_file": "2020-2023_modularity_11.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "evaluation (2015-2019)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2015-2019_modularity_12.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "evaluation (2015-2019)",
+        "target": "authorship (2020-2023)",
+        "source_file": "2015-2019_modularity_12.json",
+        "target_file": "2020-2023_modularity_2.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "evaluation (2015-2019)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "2015-2019_modularity_12.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "evaluation (2015-2019)",
+        "target": "history (2020-2023)",
+        "source_file": "2015-2019_modularity_12.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2015-2019)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2015-2019_modularity_2.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2015-2019)",
+        "target": "information storage and retrieval systems (2020-2023)",
+        "source_file": "2015-2019_modularity_2.json",
+        "target_file": "2020-2023_modularity_14.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2015-2019)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2015-2019_modularity_2.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 7,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2015-2019)",
+        "target": "political science (2020-2023)",
+        "source_file": "2015-2019_modularity_2.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2015-2019)",
+        "target": "political aspects (2020-2023)",
+        "source_file": "2015-2019_modularity_2.json",
+        "target_file": "2020-2023_modularity_5.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "libraries (2015-2019)",
+        "target": "history (2020-2023)",
+        "source_file": "2015-2019_modularity_2.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 6,
+        "type": "dotted"
+    },
+    {
+        "source": "artificial intelligence (2015-2019)",
+        "target": "history (2020-2023)",
+        "source_file": "2015-2019_modularity_4.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 1,
+        "type": "solid"
+    },
+    {
+        "source": "library science (2015-2019)",
+        "target": "social aspects (2020-2023)",
+        "source_file": "2015-2019_modularity_5.json",
+        "target_file": "2020-2023_modularity_0.json",
+        "value": 2,
+        "type": "dotted"
+    },
+    {
+        "source": "library science (2015-2019)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2015-2019_modularity_5.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library science (2015-2019)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2015-2019_modularity_5.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "library science (2015-2019)",
+        "target": "political science (2020-2023)",
+        "source_file": "2015-2019_modularity_5.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library science (2015-2019)",
+        "target": "history (2020-2023)",
+        "source_file": "2015-2019_modularity_5.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 8,
+        "type": "dotted"
+    },
+    {
+        "source": "library science (2015-2019)",
+        "target": "information science (2020-2023)",
+        "source_file": "2015-2019_modularity_5.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library and information science (2015-2019)",
+        "target": "methodology (2020-2023)",
+        "source_file": "2015-2019_modularity_6.json",
+        "target_file": "2020-2023_modularity_10.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "library and information science (2015-2019)",
+        "target": "information storage and retrieval systems (2020-2023)",
+        "source_file": "2015-2019_modularity_6.json",
+        "target_file": "2020-2023_modularity_14.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library and information science (2015-2019)",
+        "target": "academic libraries (2020-2023)",
+        "source_file": "2015-2019_modularity_6.json",
+        "target_file": "2020-2023_modularity_17.json",
+        "value": 3,
+        "type": "dotted"
+    },
+    {
+        "source": "library and information science (2015-2019)",
+        "target": "political science (2020-2023)",
+        "source_file": "2015-2019_modularity_6.json",
+        "target_file": "2020-2023_modularity_19.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library and information science (2015-2019)",
+        "target": "authorship (2020-2023)",
+        "source_file": "2015-2019_modularity_6.json",
+        "target_file": "2020-2023_modularity_2.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library and information science (2015-2019)",
+        "target": "history (2020-2023)",
+        "source_file": "2015-2019_modularity_6.json",
+        "target_file": "2020-2023_modularity_8.json",
+        "value": 1,
+        "type": "dotted"
+    },
+    {
+        "source": "library and information science (2015-2019)",
+        "target": "information science (2020-2023)",
+        "source_file": "2015-2019_modularity_6.json",
+        "target_file": "2020-2023_modularity_9.json",
+        "value": 1,
+        "type": "dotted"
+    }
+]
